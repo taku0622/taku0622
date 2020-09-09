@@ -6,7 +6,7 @@
 
 <div align="left">
  📫 &nbsp; How to reach me: →
-    <a href="https://twitter.com/creeepy_cats">
+    <a href="https://twitter.com/creepy_cats">
       <img align="center" alt="Takumi H | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
     </a>
 </div>
