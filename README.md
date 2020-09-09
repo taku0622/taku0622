@@ -5,11 +5,12 @@
 - ⚡️ &nbsp; Fun fact: NBA🏀, cat🐈, sweets🍰, Japanese idol🎤
 
 <div align="left">
-- 📫 &nbsp; How to reach me: →
+ 📫 &nbsp; How to reach me: →
     <a href="https://twitter.com/creeepy_cats">
       <img align="center" alt="Takumi H | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
     </a>
 </div>
+
 ----
 
 ### Activity
