@@ -14,11 +14,12 @@
 ----
 
 ### Activity
-<a href="https://github.com/taku0622">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taku0622&count_private=true&show_icons=true&theme=synthwave" />
+### Activity
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taku0622&count_private=true&show_icons=true&theme=synthwave" height="200"/>
 </a>
-<a href="https://github.com/taku0622">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku0622&count_private=true&show_icons=true&theme=synthwave" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku0622&layout=compact&theme=synthwave&count_private=true"  height="180"/>
 </a>
 
 <!-- ## I wish to be an Dev. engineer:fire:
