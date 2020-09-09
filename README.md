@@ -1,4 +1,4 @@
-## Hey there, I'm Takumi Hayatsu 👋
+## Hey there, I'm Takumi 👋
 
 - 🏠 &nbsp; I'm currently working at home
 - 🌱 &nbsp; I'm studying programming💻.
