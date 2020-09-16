@@ -1,5 +1,6 @@
 ## Hey there, I'm Takumi 👋
-
+Thank you for visiting me!
+![Counter](https://profile-counter.glitch.me/taku0622/count.svg)
 - 🏠 &nbsp; I'm currently working at home
 - 🌱 &nbsp; I'm studying programming💻.
 - ⚡️ &nbsp; Fun fact: NBA🏀, cat🐈, sweets🍰, Japanese idol🎤
