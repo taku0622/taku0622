@@ -1,4 +1,4 @@
-<!-- ## Hey there, I'm Takumi 👋
+## Hey there, I'm Takumi 👋
 Thank you for visiting me!
 ![Counter](https://profile-counter.glitch.me/taku0622/count.svg)
 - 🏠 &nbsp; I'm currently working at home
@@ -13,4 +13,3 @@ Thank you for visiting me!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
