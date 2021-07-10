@@ -1,5 +1,5 @@
 ## ¡Hola! 👋
-- 🏠 &nbsp; I'm currently working at home
+<!-- - 🏠 &nbsp; I'm currently working at home -->
 - 🌱 &nbsp; I'm studying programming💻.
 
 <a href="https://github.com/anuraghazra/convoychat">
